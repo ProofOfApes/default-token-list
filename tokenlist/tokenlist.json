@@ -1,10 +1,10 @@
 {
   "name": "POA Foundation Default List",
-  "timestamp": "2022-10-30T03:10:37.892Z",
+  "timestamp": "2022-10-30T10:31:24.395Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png",
@@ -15,6 +15,14 @@
     "proof of apes"
   ],
   "tokens": [
+    {
+      "name": "Test Token",
+      "address": "0xE3Dd0C3De5f8e91c647d23154B40F0b6c7C4a322",
+      "symbol": "ApeTest",
+      "decimals": 18,
+      "chainId": 493,
+      "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
+    },
     {
       "name": "Wrapped POA",
       "address": "0x36C2239F6448fd3628C23F1d99a047fF11A8afD8",

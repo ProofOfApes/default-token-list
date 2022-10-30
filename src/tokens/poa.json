@@ -6,5 +6,13 @@
       "decimals": 18,
       "chainId": 493,
       "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
+    },
+    {
+      "name": "Test Token",
+      "address": "0xE3Dd0C3De5f8e91c647d23154B40F0b6c7C4a322",
+      "symbol": "ApeTest",
+      "decimals": 18,
+      "chainId": 493,
+      "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
     }
   ]

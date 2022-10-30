@@ -1,0 +1,39 @@
+{
+  "name": "@POA/default-token-list",
+  "version": "1.0.0",
+  "description": "◦ The POA default token list",
+  "main": "build/tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "release": "standard-version && git push",
+    "build": "rm build -rf && mkdir build && node src/write.js > build/tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Moody Salem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Uniswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "standard-version": "^9.3.1"
+  }
+}

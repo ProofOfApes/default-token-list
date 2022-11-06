@@ -1,18 +1,26 @@
 [
     {
-      "name": "Wrapped POA",
-      "address": "0x36C2239F6448fd3628C23F1d99a047fF11A8afD8",
-      "symbol": "WPOA",
-      "decimals": 18,
-      "chainId": 493,
-      "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
+        "name": "Wrapped POA",
+        "address": "0x36C2239F6448fd3628C23F1d99a047fF11A8afD8",
+        "symbol": "WPOA",
+        "decimals": 18,
+        "chainId": 493,
+        "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
     },
     {
-      "name": "Test Token",
-      "address": "0xE3Dd0C3De5f8e91c647d23154B40F0b6c7C4a322",
-      "symbol": "ApeTest",
-      "decimals": 18,
-      "chainId": 493,
-      "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
+        "name": "Test Token",
+        "address": "0xE3Dd0C3De5f8e91c647d23154B40F0b6c7C4a322",
+        "symbol": "ApeTest",
+        "decimals": 18,
+        "chainId": 493,
+        "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png"
+    },
+    {
+        "name": "BANK of PoA",
+        "address": "0x3C10DF9a009e97397F6c436E6DdFb2226D72429b",
+        "symbol": "$BANK",
+        "decimals": 18,
+        "chainId": 493,
+        "logoURI": "https://raw.githubusercontent.com/ProofOfApes/default-token-list/main/logos/0x3C10DF9a009e97397F6c436E6DdFb2226D72429b/logo.png"
     }
-  ]
+]

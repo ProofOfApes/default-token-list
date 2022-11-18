@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ProofOfApes/poa-token/main/50x50.png",
@@ -38,6 +38,14 @@
       "decimals": 18,
       "chainId": 493,
       "logoURI": "https://raw.githubusercontent.com/ProofOfApes/default-token-list/main/logos/0xf9Ef94155c885EBf3fBd77F53B653A7851C94392/logo.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x6fAC3283546A779b0923165355F7e3C66914652d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 493,
+      "logoURI": "https://raw.githubusercontent.com/ProofOfApes/default-token-list/main/logos/0x6fAC3283546A779b0923165355F7e3C66914652d/logo.png"
     }
   ]
 }

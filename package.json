@@ -1,6 +1,6 @@
 {
     "name": "@POA/default-token-list",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "◦ The POA default token list",
     "main": "build/tokenlist.json",
     "scripts": {
